@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Book xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Author>John Jonnson</Author>
+  <Title>Applied Psychology</Title>
+  <Genre>Science</Genre>
+  <Publisher>NovaPress</Publisher>
+  <PublishDate>11-02-2010</PublishDate>
+  <Description>...</Description>
+</Book>
